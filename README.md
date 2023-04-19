@@ -30,4 +30,4 @@
 ## 9. vite-nuxt3-app
   nuxt3 + vite3  前端 SSR 项目通用模板
   
-### 10. 掘金地址：https://juejin.cn/post/7079785777692934174
+### 10. 掘金文档地址：https://juejin.cn/post/7079785777692934174
